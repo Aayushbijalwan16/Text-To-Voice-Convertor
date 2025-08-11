@@ -1,30 +1,30 @@
-# 🔐 Text-to-Voice Converter
+# 🔐 Text-to-Speech Converter
 
 Transform written text into natural-sounding voice with just one click!
-Whether you're building accessibility features, voiceovers, or just experimenting—this tool is perfect for you.
+Whether you're building accessibility features, speechovers, or just experimenting—this tool is perfect for you.
 
 ---
 
 <!-- Project Link -->
 
-🚀 **Try it now:** [Generate your passwords instantly!](https://text-to-voice-convertor-alpha.vercel.app/)
+🚀 **Try it now:** [Generate your passwords instantly!](https://text-to-speech-convertor-alpha.vercel.app/)
 
 <!-- Project Image -->
 
 <p align="center">
-  <img src="./images/output.png" alt="Text-to-voice Converter Screenshot" width="600"/>
+  <img src="./images/output.png" alt="Text-to-speech Converter Screenshot" width="600"/>
 </p>
 
 ---
 
-A simple and customizable Text-to-voice Converter built with **HTML** **CSS** and **JavaScript**.
+A simple and customizable Text-to-speech Converter built with **HTML** **CSS** and **JavaScript**.
 
 ## ✨ Features
 
-- 🗣️ Real-Time Voice Output: Converts text to voice instantly
-🎛️ Customizable: Choose voice type and language
+- 🗣️ Real-Time speech Output: Converts text to speech instantly
+🎛️ Customizable: Choose speech type and language
 📋 Easy-to-Use: Clean UI
-🌍 Multi-Language Support: Supports multiple languages and voices
+🌍 Multi-Language Support: Supports multiple languages and speechs
 📱 Responsive: Works seamlessly across desktop and mobile devices
 
 ## 🚀 Getting Started
@@ -33,8 +33,8 @@ A simple and customizable Text-to-voice Converter built with **HTML** **CSS** an
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Text-to-voice-Converter.git
-   cd Text-to-voice-Converter
+   git clone https://github.com/your-username/Text-to-speech-Converter.git
+   cd Text-to-speech-Converter
    ```
 
 2. **Running the App**
@@ -49,13 +49,13 @@ Open [http://http://127.0.0.1:5500](http://http://127.0.0.1:5500) in your browse
 ## 📝 Usage
 
 1. Enter or paste the text you want to convert.
-2. Select the voice, language (optional).
+2. Select the speech, language (optional).
 3. Click the "Speak" button to hear the audio.
-4. Use "Stop" to halt voice at any time.
+4. Use "Stop" to halt speech at any time.
 
 ## 🎨 Customization
 
-- Modify available voice options and defaults in the source code.
+- Modify available speech options and defaults in the source code.
 - Adjust UI and styles through the React components and CSS files.
 - Add additional language support as needed.
 
