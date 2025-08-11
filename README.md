@@ -1,6 +1,6 @@
-# 🔐 Text-to-Speech Converter
+# 🔐 Text-to-Voice Converter
 
-Transform written text into natural-sounding speech with just one click!
+Transform written text into natural-sounding voice with just one click!
 Whether you're building accessibility features, voiceovers, or just experimenting—this tool is perfect for you.
 
 ---
@@ -12,16 +12,16 @@ Whether you're building accessibility features, voiceovers, or just experimentin
 <!-- Project Image -->
 
 <p align="center">
-  <img src="./images/output.png" alt="Text-to-Speech Converter Screenshot" width="600"/>
+  <img src="./images/output.png" alt="Text-to-voice Converter Screenshot" width="600"/>
 </p>
 
 ---
 
-A simple and customizable Text-to-Speech Converter built with **HTML** **CSS** and **JavaScript**.
+A simple and customizable Text-to-voice Converter built with **HTML** **CSS** and **JavaScript**.
 
 ## ✨ Features
 
-- 🗣️ Real-Time Voice Output: Converts text to speech instantly
+- 🗣️ Real-Time Voice Output: Converts text to voice instantly
 🎛️ Customizable: Choose voice type and language
 📋 Easy-to-Use: Clean UI
 🌍 Multi-Language Support: Supports multiple languages and voices
@@ -33,8 +33,8 @@ A simple and customizable Text-to-Speech Converter built with **HTML** **CSS** a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Text-to-Speech-Converter.git
-   cd Text-to-Speech-Converter
+   git clone https://github.com/your-username/Text-to-voice-Converter.git
+   cd Text-to-voice-Converter
    ```
 
 2. **Running the App**
@@ -51,7 +51,7 @@ Open [http://http://127.0.0.1:5500](http://http://127.0.0.1:5500) in your browse
 1. Enter or paste the text you want to convert.
 2. Select the voice, language (optional).
 3. Click the "Speak" button to hear the audio.
-4. Use "Stop" to halt speech at any time.
+4. Use "Stop" to halt voice at any time.
 
 ## 🎨 Customization
 
