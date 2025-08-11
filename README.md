@@ -7,7 +7,7 @@ Whether you're building accessibility features, voiceovers, or just experimentin
 
 <!-- Project Link -->
 
-🚀 **Try it now:** [Generate your passwords instantly!](  )
+🚀 **Try it now:** [Generate your passwords instantly!](https://text-to-voice-convertor-alpha.vercel.app/)
 
 <!-- Project Image -->
 
