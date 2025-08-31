@@ -17,15 +17,15 @@ Whether you're building accessibility features, speechovers, or just experimenti
 
 ---
 
-A simple and customizable Text-to-speech Converter built with **HTML** **CSS** and **JavaScript**.
+A simple and customizable Text-to-speech Converter built with **HTML** **Tailwind CSS** and **JavaScript**.
 
 ## ✨ Features
 
 - 🗣️ Real-Time speech Output: Converts text to speech instantly
-🎛️ Customizable: Choose speech type and language
-📋 Easy-to-Use: Clean UI
-🌍 Multi-Language Support: Supports multiple languages and speechs
-📱 Responsive: Works seamlessly across desktop and mobile devices
+- 🎛️ Customizable: Choose speech type and language
+- 📋 Easy-to-Use: Clean UI
+- 🌍 Multi-Language Support: Supports multiple languages and speechs
+- 📱 Responsive: Works seamlessly across desktop and mobile devices
 
 ## 🚀 Getting Started
 
