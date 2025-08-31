@@ -17,7 +17,7 @@ Whether you're building accessibility features, speechovers, or just experimenti
 
 ---
 
-A simple and customizable Text-to-speech Converter built with **HTML** **Tailwind CSS** and **JavaScript**.
+A simple and customizable Text-to-speech Converter built with **HTML** **CSS** and **JavaScript**.
 
 ## ✨ Features
 
